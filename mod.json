@@ -1,17 +1,8 @@
 {
-	"geode": "$GEODE_VERSION",
-	"gd": {
-		"win": "2.2081",
-		"android": "2.2081",
-		"mac": "2.2081",
-		"ios": "2.2081"
-	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
-	"dependencies": {
-		"geode.node-ids": ">=v1.23.3"
-	}
+    "geode": "v3.0.0-beta.1",
+    "id": "geometrypro1209.jump_higher",
+    "version": "v1.0.0",
+    "name": "Jump Higher",
+    "developer": "geometrypro1209",
+    "description": "My private mod to jump higher!"
 }
